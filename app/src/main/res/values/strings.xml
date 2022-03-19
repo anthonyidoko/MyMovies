@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">MyMovies</string>
-    <string name="token">47631287e9a24877d69ead35656ae4f0</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="home">Home</string>
