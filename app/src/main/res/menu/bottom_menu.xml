@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/latestMoviesFragment"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:title="@string/latest" />
+    <item
+        android:id="@+id/upcomingMoviesFragment"
+        android:icon="@drawable/ic_baseline_call_made_24"
+        android:title="@string/upcoming" />
+    <item
+        android:id="@+id/popularMoviesFragment"
+        android:icon="@drawable/ic_baseline_escalator_24"
+        android:title="@string/popular" />
+</menu>
